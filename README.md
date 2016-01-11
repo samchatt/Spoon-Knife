@@ -9,3 +9,4 @@ After forking this repository, you can make some changes to the project, and sub
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
 THIS IS A LITTLE TEST TEXT I ADDED IN MY LOCAL COPY. WILL PUSH TO GUTHUB NEXT.
+The above worked! Now I'm editing this directly on GitHub repo and will save to a new branch.
